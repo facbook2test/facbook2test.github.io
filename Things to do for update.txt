@@ -1,0 +1,14 @@
+Add Fonts (D)
+
+Add websites:
+PasswordReset (X)
+Privacy (X)
+TermsOfService (-)
+Giftcard Maker
+Where to get Giftcards
+What Giftcards do
+Boku and iTunes (X)
+
+Make websites be able to go to Facbook2.github.io/Users (-)
+
+Get rid of that stupid 500 error (X)
